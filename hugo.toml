@@ -1,0 +1,4 @@
+baseURL = 'balladinthesky.github.io'
+languageCode = 'en-us'
+title = 'Zero Degree'
+theme = 'LoveIt'
